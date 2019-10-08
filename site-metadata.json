@@ -5,7 +5,7 @@
   "header": {
     "title": "MIGHT: a novel",
     "logo_img": "/images/might-novel-wordmark.png",
-    "has_nav": true
+    "has_nav": false
   },
   "footer": {
     "content": "&copy Brian A. Dominick 1999-2019; All rights reserved.",
