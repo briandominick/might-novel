@@ -12,6 +12,8 @@ sections:
     messes they inherit. Written as a memoir in 2046,_ MIGHT _looks back on a quarter
     century of revolution._
   actions:
+  - label: READ NOW
+    url: "/present-as-prologue"
   - label: Learn More
     url: "/about"
 menus:
