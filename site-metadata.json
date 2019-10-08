@@ -11,6 +11,11 @@
     "content": "&copy Brian A. Dominick 1999-2019; All rights reserved.",
     "links": [
       {
+        "text": "Sourced on GitHub.",
+        "url": "http://github.com/briandominick/might-novel",
+        "new_window": true
+      },
+      {
         "text": "Hosted by Netlify.",
         "url": "https://www.netlify.com/",
         "new_window": true
