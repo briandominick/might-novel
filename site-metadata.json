@@ -1,17 +1,17 @@
 {
   "title": "Stackbit Ampersand Theme",
   "layout_style": "grid",
-  "palette": "green",
+  "palette": "black",
   "header": {
     "title": "MIGHT: a novel",
     "logo_img": "/images/might-novel-wordmark.png",
     "has_nav": true
   },
   "footer": {
-    "content": "&copy; All rights reserved.",
+    "content": "&copy Brian A. Dominick 1999-2019; All rights reserved.",
     "links": [
       {
-        "text": "Made with Stackbit",
+        "text": "Compiled by StackBit",
         "url": "https://www.stackbit.com",
         "new_window": true
       }
