@@ -75,23 +75,32 @@ There was no convincing myself of the revolutionary potential of anyone in the U
 _Might_ was drowning.
 
 Tired of waiting for the world to come around to my anarchist ways, I spent my 30s trying to form organizations that could "prefiguratively" model the world I hoped to portray in _Might_.
-I started with an anti-commercial, nonprofit news organization, The NewStandard.
-I am proud of the work we did there, publishing nearly 3,000 articles over 3.5 years, and paying for all of them.
+These were the most fulfilling projects of my life, but their success was limited, and eventual failures forced me to confront how utterly difficult it is to do good things in the midst of capitalism.
+Here I was, one of the only people I knew of who had spent a couple of decades talking about revolution, and I had retreated into playing make believe like all the one-time-radicals the world has ever forgotten.
 
-Next I tried a startup in New York City, an attempt to build a flat company to run a health and fitness social network.
-I got into the room with lots of capitalists eager to fund such a project, but they could tell I was not one of them.
+This state of unvisionary malaise, if you will, changed in 2015, around the time I was making my fourth or so "career" change.
+I was managing technical documentation at a Big Data startup when it struck me that the tools we were using to document enterprise-scale software in a versioned manner would make it possible to write _any_ kind of documentation laws and policies in radically collaborative ways.
 
-Something changed in 2015, around the time I was maing my eighth or so career change.
-I was managing technical documentation at a Big Data startup when it struck me that the tools we were using to document software in a versioned manner would make it possible to write laws and policies in radically collaborative ways.
+(In fact, I have since explored this innovative field of documentation alongside heavily active research into the subject matter of this book, even though they barely overlap.
+Hints of my own open-source software and experiments will make their way into _Might_, as I have for four years now been tricking corporations into paying me to learn how to collaboratively produce documents in ways young people will grow up used to practicing, and most elders will definitely never bother even trying to understand.
+My work in technology has exposed numerous real-life examples of this gap that are far more fundamental than relative comfort differences when using a smartphone.)
 
-Around the same time, I started reading about the technology behind Bitcoin, just because I was fascinated.
-I had long understood the basic principles of distributed computing, and I even recall assuming that a radically distributed network would someday be used to run a democratially planned socialist economy.
+Around the same time, I started reading about the technology behind Bitcoin, just because I was fascinated by the phenomenon.
+I had long understood the basic principles of distributed computing, and I even recall assuming that a radically distributed network would someday be used to run a democratially planned socialist economy (a "participatory economy", as my mentors in the 1990s called it, much to my chagrin as a propagandist).
 
-What had never occurred to me before Satoshi Nakamoto released that first blockchain application that I considered we might be able to use distributed tech to coordinate life _before and during_ revolution, not just after.
-And really not even then until someone started pointing out it's not just good for cryptocurrency, even if less than 1% of blockchain visionaries are looking at other applications.
+Until people began talking about alternate uses for distributed ledger technology (DLT), it had not occurred to me that we might be able to use distributed tech to coordinate life _before and during_ a revolution, not just as a result.
+It was easy to picture lots of computers collaborating to manage our economic lives; but I was aware of no one imagining a _trustless_ network to reliably carry out sophisticated, valuable transactions.
+Some greedy capitalist (or haphazard maniac loner) had to go and prove central authorities are not needed to establish shockingly reliable networks.
 
-This was all quite consistent with my own beliefs on revolutionary strategy, which insists on a _grassroots dual power_ phase, during which the revolutionary movement forms real infrastructure in the shadow of the old society.
-Despite calling myself a technologist from time to time on my resume, 
+This was all quite consistent with my own beliefs on revolutionary strategy, which insist on a _grassroots dual power_ phase, during which the revolutionary movement forms real infrastructure in the shadow of the old society.
+Despite calling myself a technologist from time to time on my resume, I did not typically look at the above as a technical challenge for the future nearly so much as it is a social challenge.
+But if my leftist mentors and friends are right, humanity is rearing to get into the fight if only the conditions for revolution can be established.
+
+I have always believed those conditions have included a "method" -- an overarching tactic that would facilitate the strategy.
+This was a magic ingredient my revolutionary story lacked.
+People will dispute that the technologies I describe in the Prologue and in the main body of _Might_ can do all that I portray, and they would be partly right.
+I am doing my best to remain realstic, even though my experience making software is that it is often harder in practice than in theory, especially at scale and under high pressure.
+But so far, in the countless hours I've spent letting smart friends attack the basis of my story, the argument that holds up best is that "all this tech will not work, at last not on time".
  
 The novel is called _Might_, and the fictional author's memoir that makes up the entire book is called _Will_.
 This is because I believe the stories in the book are plausible: they _might_ happen, if we have the _will_ to make the necessary changes.
